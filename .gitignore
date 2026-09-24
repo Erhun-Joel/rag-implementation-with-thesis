@@ -1,0 +1,14 @@
+# Ignoring environments
+.env
+.RProfile
+
+# Python enviroments
+.venv/
+__pycache__/
+*.pyc
+
+
+# Ignoring packages
+renv/library/
+renv/sandbox/
+renv/local/
