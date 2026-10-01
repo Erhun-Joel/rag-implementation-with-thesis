@@ -8,7 +8,7 @@ ATMOSPHERIC STORAGE METHOD", in 2023. Now that RAG systems have become quite pop
 The data for this project is primarily gotten from my thesis project. For reasons of simplicity, sections such as Table of Contents and References were left out and not used to create the embedding vector space.
 
 ## HOW TO RUN RAG SYSTEM LOCALLY
-For now, the only way to interact meaningfully with the RAG system is through the console. Simnply download the repository and run the Script titled rag_system.py.
+For now, the only way to interact meaningfully with the RAG system is through the console. Simply download the repository and run the Script titled rag_system.py.
 
 ## FUTURE UPDATES AND ADDITIONS
 In the future, updates would be made to this project including but not limited to:
